@@ -52,7 +52,7 @@ Rhetorical questions the note itself poses in quotation marks ("what is the best
 
 ## Style
 
-New sentences follow Scalia's habits in *A Matter of Interpretation*: short declaratives ("He did not test it out of virtue."), the question answered flatly ("What, then, requires the American advocate to test his claim before he files it? Almost nothing."), "I do not suggest, mind you," "To be sure," "you see," the homely analogy (the toll at the bridge; testing the ice), and antithesis ("It is less that advocates stopped testing their claims because the words changed than that the words changed because advocates stopped testing their claims"). I used the generic "he" for the historical litigant, as Scalia does; the note elsewhere uses singular "their." You may want to settle on one.
+New sentences follow Scalia's habits in *A Matter of Interpretation*: short declaratives ("He did not test it out of virtue."), the question answered flatly ("What, then, requires the American advocate to test his claim before he files it? Almost nothing."), "I do not suggest, mind you," "To be sure," "you see," the homely analogy (the cook who must eat his own dish; testing the ice), and antithesis ("It is less that advocates stopped testing their claims because the words changed than that the words changed because advocates stopped testing their claims"). I used the generic "he" for the historical litigant, as Scalia does; the note elsewhere uses singular "their." You may want to settle on one.
 
 Where a sentence of yours was untouched, I left its wording alone even where a Scalia pass would change it ("incentivize" in P0327, "lean into" in P0396, the katana in P0215). Those are yours to decide.
 
