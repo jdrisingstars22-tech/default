@@ -1,7 +1,8 @@
-# Writing sample as Section I; interviews and final case study as a new Section VII (tracked changes on FAF 9:24)
+# Writing sample as Section I; Phillips interview and final case study in a new Section VII (tracked changes on FAF 9:24)
 
 **Files**
 - `FAF_924_SectionI_restructure_TRACKED.docx` — FAF 9:24 with every change tracked under the author "Claude." Base is 9:24; nothing from the earlier thematic-shift files is in it. Rejecting all changes restores 9:24 exactly (checked paragraph by paragraph). Accepting all gives the new structure.
+- `GONE_from_924.md` — every sentence and footnote of 9:24 that has no counterpart in the new file, found mechanically (see that file for method). The short version is in the chat message and under **What is gone** below.
 - `redline_restructure.md` — the same changes as text, in document order. Whole paragraphs that move appear as a deleted paragraph in the old place and an inserted paragraph in the new place (Word has no tracked "move" for paragraphs with footnotes).
 
 ## New structure
@@ -25,6 +26,37 @@ Every v18 body paragraph is inserted verbatim, including the roadmap's two Secti
 
 **Old Section II is deleted in full**, since Section I now tells the Skrmetti and NAACP story. A few things in the old Section II are not in v18 and go with it unless you want them back: the Greenberg quotation's "until Warren Burger became chief justice" clause; "The Justices pressed counsel on whether Bostock's Title VII reasoning could be carried into the equal-protection context at all" (n.140); Carter's "Since they had nothing better to offer, I won the initial skirmish" (n.162); the "In the next section, I will explain …" transition (n.167); and the full Krech block quote (v18 quotes two fragments of it inline).
 
+## The Phillips interview (Section VII)
+
+Three paragraphs follow the mooting paragraph, written from your bullet points. Only the phrases you put in quotation marks are quoted: "incredibly helpful," "people won't challenge me," "I don't need to be complimented," "I want criticism of my case so I can win," "the only non-believer," "we have this group of litigators, we know how to handle it," "feeding frenzy." Everything else is paraphrase of your bullets (the "wrong vehicle" point, the reluctance to go outside the firm, the incentive to argue the case yourself). The footnote is "Interview with Carter G. Phillips, Partner, Sidley Austin LLP ([date]) (notes on file with author)"; fill in the date.
+
+The "corporate nightmare" is cited where you asked. It is McGuire quoting Tony Mauro, *Damaging the Anti-Punitive Crusade*, Legal Times of Washington, Oct. 8, 1990, at 10, on Bruce Beckman's argument in the Pacific Mutual punitive-damages case (McGuire p. 158; checked against the text you uploaded). Only phrases whose word order is certain in the scan are quoted: "[s]everal moot courts on the West Coast and one in Washington," "apparently included a memorable scolding of Beckman by [Erwin] Griswold," "left the corporate bar wishing Beckman would surrender the argument," "wouldn't relinquish the case," "the corporate nightmare came true." Beside it, McGuire p. 112 quoting Wasby: arguing before the Court is "a temptation few seem to be able to resist."
+
+## The disclaimer (Section I)
+
+Your disclaimer paragraph is back, verbatim from the old roadmap, placed in the Skrmetti subsection after the paragraph that names the three flaws and before "Consider first how the case unfolded": "The substance of this case implicates a contested area of law and policy. The analytical focus is not on any policies advanced in litigation … readers should not take them for a critique of the plaintiffs or their cause." ("Section II" became "this section.") Its footnote, your statement that you share Justice Sotomayor's concern for the plaintiffs and their families, is attached to its first sentence.
+
+## What is gone from 9:24
+
+Everything below is deleted in the new file and appears nowhere else in it. The full mechanical list is in `GONE_from_924.md`.
+
+Substance with no counterpart anywhere:
+- The Greenberg quotation's closing clause, "—until Warren Burger became chief justice" (v18 stops at "the dry run").
+- "The Justices pressed counsel on whether Bostock's Title VII reasoning could be carried into the equal-protection context at all," with n.140.
+- Carter on the social-science fight: "Since they had nothing better to offer, I won the initial skirmish," with n.162.
+- The full Krech block quote (v18 quotes two fragments of it inline; the sentences about the staff member's reply and the rebuttals are gone).
+- The old Section II closer defining groupthink as "the organizational pathology in which cohesion around an untested litigation strategy forecloses the internal dissent…," with n.167.
+- The Menkel-Meadow "lawyers persist[ing] in appearing at various ADR sessions wearing their adversarial suits" quotation (old roadmap, n.100). The phrase appears nowhere else in the note.
+- Footnote 7 (Sander, *Varieties of Dispute Processing*, with the Nader cross-reference) and footnote 60 (Hoffman, *A Course of Legal Study*, 2d ed. 1836). The quotations they supported survive elsewhere with other footnotes (n.551 for Sander; n.441 for Hoffman).
+- Footnotes 120 and 138 in their 9:24 form (the Steve Marshall press-release citation and the *SCOTUS 2025 Term Debrief* citation); v18's footnotes 21 and 39 cover the same sources in different form.
+
+Deleted because the same substance is elsewhere:
+- The Hoffman and Sharswood quotations from the old intro (both in Section V, *First Historical Factor*).
+- The old intro's lead paragraph on the three developments and the two losses (Section V's second and third paragraphs).
+- The sentence quoting Sander's "screening clerk" remark (Section V, Pound subsection, n.551).
+
+Reworded by v18 rather than gone: the Skrmetti opening ("did not solely involve" → "was not simply a matter of"; "rapid" → "unrehearsed"; the jeans-advertisement sentence → "the corporate sphere's culture of bullying opponents into capitulation"); "The composition and process behind SOC-8" → "Neither the selection of SOC-8's authors nor the process"; "I concede that ideological diversity … might not have altered the outcome" → "Of course, no one can know whether…"; the Tilly sentence; the Howard paragraph; the Kelly and Krech lead-ins; "Step outside the cave" → "The world that comes into view in the historical record."
+
 ## Where the old Introduction went
 
 | Old Introduction paragraph | Fate | New location |
@@ -43,9 +75,9 @@ Every v18 body paragraph is inserted verbatim, including the roadmap's two Secti
 | Third Development: fixed fees to hourly billing, overconfidence block quote, Weinstein, confirmation bias, "blind spots," senior partners | Moved | Section VI, after the paragraph on monetization and myside bias. "Third, fixed" → "Fixed." |
 | "Combined, these three historical circumstances … Rambo and kamikaze lawyers" | Moved | End of Section V's three factors, after the Rule 11 paragraph. |
 | "Put simply, history impacts the present … psychological safety …" | Moved | Section VI, after the paragraph proposing the modern QCM. "As the final section of this Note develops" → "As this section develops." |
-| Old roadmap | Deleted | Replaced by v18's roadmap. The old Section II disclaimer paragraph ("The substance of this case implicates a contested area …") is gone with it; if you want it, the natural home is the end of the Skrmetti subsection in Section I. |
+| Old roadmap | Deleted | Replaced by v18's roadmap. Its disclaimer paragraph and the Sotomayor footnote are kept, in the Skrmetti subsection of Section I. |
 
-Counts: 79 paragraphs deleted (including blank spacers), 63 inserted, 4 edited inline.
+Counts: 79 paragraphs deleted (including blank spacers), 67 inserted, 4 edited inline.
 
 ## Cross-references
 
@@ -67,5 +99,5 @@ A moved paragraph's footnotes are duplicated as tracked insertions (168 new foot
 - The abstract, which still describes the note in ADR terms.
 - The TOC (update the field in Word).
 - Redundancy I kept because each side has quotations the other lacks: the Section IV opening model paragraph overlaps with the paragraph beginning "Once these agricultural settlements expanded" and with Section VI's first paragraph on the three options; the Athens and Rome material in *Features of QCMs* overlaps with the Greek and Roman subsections that follow.
-- The earlier pass-2 source integrations (Tetlock, Lazarus, McGuire, Phillips, and the rest) are not in this file; they are in `FAF_924_thematic_shift_TRACKED.docx`. The Phillips interview material would belong in the new Section VII.
+- The other pass-2 source integrations (Tetlock, Lazarus, McGuire pp. 110 and 177, Cicero, Sanhedrin, Inns of Court, Mill, Story, Fuller) are not in this file; they are in `FAF_924_thematic_shift_TRACKED.docx`.
 - LibreOffice cannot open files here, so page layout was not visually checked; the file passes the schema validator and every change round-trips.
