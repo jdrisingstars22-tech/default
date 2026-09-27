@@ -4,7 +4,7 @@
 - `FAF_924_thematic_shift_TRACKED.docx` — a copy of FAF 9:24 with every proposed change tracked under the author name "Claude." Open in Word with markup showing; accept or reject each change.
 - `redline_preview.md` — the same changes as plain text (`{--deleted--}` / `{++inserted++}`), for reading without Word. Paragraph ids (P####) count every paragraph in the file, including the table of contents.
 
-Nothing outside the tracked changes was altered. Footnote text and numbering are untouched, and every footnote marker stays in its original order and position relative to the sentence it supports. Rejecting all changes restores FAF 9:24 exactly.
+Nothing outside the tracked changes was altered. Existing footnote text is untouched, and every existing footnote marker stays in its original order and position relative to the sentence it supports. Pass 2 adds 39 new footnotes; each is inserted as a tracked change (reference mark and footnote text), so Word renumbers on acceptance and rejecting all changes removes them. Rejecting all changes restores FAF 9:24 exactly.
 
 ## What the edits do
 
@@ -15,7 +15,7 @@ The argument is unchanged. What changes is the order in which its two claims are
 
 The title stays. The three historical developments keep their names and order. Section VI's heading is the one structural change proposed; everything else is sentence-level.
 
-## Where the changes are (50 paragraphs)
+## Where the changes are (pass 1: 50 paragraphs)
 
 | Location | Paragraphs | What changes |
 |---|---|---|
@@ -36,6 +36,45 @@ The title stays. The three historical developments keep their names and order. S
 | Section VI body | P0260, P0261, P0262, P0268, P0269, P0272, P0280, P0282, P0296, P0300, P0306, P0310, P0314, P0315, P0317 | Order flips (QCMs before forums); Hoffman's lost role described as case assessment rather than docket filtering; the capture of forums tied to the migration of screening from advocate to system; Rule 11 answered explicitly in P0306 (see below); the Pound Conference described as where the profession settled on asking where rather than whether. |
 | Section VII opener | P0323, P0326, P0327, P0346 | Costs and testing first, forums second; "picking amongst forums model" → "disputes have been monetized"; the modern QCM restores "the discipline that filing once required." |
 | Conclusion | P0395, P0396 | Leads with the history's short answer and one homely analogy; the ADR-vocabulary point becomes "a lesser point" and "a symptom"; Rule 11 parenthetical explained. |
+
+## Pass 2: new sources, the writing sample, and the Phillips interview (66 paragraphs in all)
+
+Pass 2 keeps every pass-1 edit and adds sixteen paragraphs, revises seven pass-1 paragraphs, and inserts 39 footnotes. The quotations are the ones recommended in `QUOTES_for_thematic_rework.md`; the verbatim sentences from writing sample v14 are used wherever the note's own paragraph made room for them, and the Skrmetti section keeps the note's disclaimer and its more sympathetic treatment of the ACLU team.
+
+| Location | Paragraphs | What is added |
+|---|---|---|
+| Groupthink (Section III lead-in) | P0123 | The 1958 Joint Conference report (Fuller & Randall): the "preliminary diagnosis" that hardens into "a fixed conclusion," the adversary presentation as the remedy, and "muddy the headwaters of decision"; Dewey's "No lawyer ever thought out the case of a client in terms of the syllogism." The point drawn: the adversary system supplies the adversary only after filing. |
+| Section IV opener | P0147 (was an empty paragraph) | The writing sample's "Rooms come in two kinds" passage, verbatim, ending "I begin with the loss." |
+| Skrmetti | P0150, P0152, P0156, P0157 | Writing-sample phrasing folded into existing sentences ("a decade of unrehearsed legal and cultural change"; "Indeed."; "The case was different; the standards were the same."; "believe it or not"). The disclaimer paragraph and the empathetic framing are untouched. |
+| NAACP | P0165, P0167, P0169 | Tushnet on the national office's review of local lawyers' theories and the Howard moots; Margold's report and Carter's review; Houston's letters; "Now that is an adversarial room." |
+| Janis / Cardozo | P0174 | Cardozo (1921) on "the spirit of the age" before Janis had a word for it; Strebeigh on Ginsburg's practice. |
+| Section V | P0234, P0239 | Cicero hearing the client alone and arguing the opponent's side (De Oratore, De Officiis); the Sanhedrin's rule of taking the junior judge's opinion first (Mishnah, Maimonides). |
+| Section VI | P0301, P0306 | Baker on the Inns of Court abandoning the obligation to moot (1778); the Rule 11 paragraph now carries Tetlock ("much more effective in preventing than in reversing the biased assimilation process"), Rex Lee's "five out of every six," Lazarus on the bar's "useful screening function," and McGuire (see below). |
+| Section VII | P0328, P0338, P0384 | Mill on hearing objections "from persons who actually believe them"; Story on the founding generation; McGuire on the Washington bar's moot courts and Carter Phillips on why he stopped holding them. |
+| Revised pass-1 paragraphs | P0094, P0095, P0151, P0161, P0170, P0248, P0306 | Sentences from v14 grafted in; new footnotes attached (Douglas, Mercier & Sperber, Kronman, Kahneman & Lovallo, Lazarus 1540–41, the Brown/Skrmetti citation, Cornell/Gienapp, Fish). |
+
+### McGuire, *The Supreme Court Bar* (checked against the text you uploaded)
+
+I read the McGuire text file you sent and checked each quotation against it. Page numbers follow the running heads in that file.
+
+- **p. 177** (P0306): "Fifty percent of the cert petitions filed have no chance of being granted. Anybody who read them before they were filed could have told the petitioner that." These are the words of an anonymous Washington lawyer with Solicitor General's office experience, quoted by McGuire, so the body now attributes them that way rather than to McGuire himself. Same page, McGuire's own words: "in a sense, their cases are also 'prescreened,'" and "The professional fortunes of these lawyers are not tied to any one case." The footnote for the second is *Id.*
+- **p. 158** (P0306): the "corporate nightmare" passage. It is McGuire quoting Tony Mauro, *Damaging the Anti-Punitive Crusade*, Legal Times of Washington, Oct. 8, 1990, at 10, about Bruce Beckman's argument in the Pacific Mutual punitive-damages case. I quoted only phrases whose word order is certain in the scanned text: "[s]everal moot courts on the West Coast and one in Washington," "apparently included a memorable scolding of Beckman by [Erwin] Griswold" (the bracket is McGuire's), "left the corporate bar wishing Beckman would surrender the argument," "wouldn't relinquish the case," and "the corporate nightmare came true." The block quotation runs onto p. 159; every phrase I quote sits on 158. The footnote reads "McGuire, supra, at 158 (quoting Mauro ...)". The story is used as the exception that proves the rule: the moot courts told Beckman what the Court would tell him, and nothing made him heed them.
+- **p. 112** (P0306): "a temptation few seem to be able to resist," McGuire quoting Stephen L. Wasby, *The Supreme Court in the Federal Judicial System* 147 (1988), on the attraction of arguing before the Court. Placed beside Phillips's point about the exclusivity of the bar.
+- **p. 110** (P0384): experienced Washington lawyers "evaluate one another's oral preparations, criticize their briefs, and school less experienced counsel on what questions to expect from the justices"; a lawyer "admitted that his appearance at the moot court had actually been more stressful" than his first argument. The scan breaks the first sentence across lines, but the reassembly is unambiguous.
+
+Two McGuire passages I did not use but you may want: p. 176, an interviewee on credibility ("The core of good advocacy in that court is admitting the weaknesses in your own case"), and p. 112, an interviewee's advice to a client with ten thousand dollars: spend it "thinking the thing through and doing a moot court."
+
+### Carter Phillips interview (P0306, P0384)
+
+The Phillips sentences are rendered from your bullet-point takeaways, not from a transcript. The words in quotation marks are the ones you put in quotation marks: "feeding frenzy," "incredibly helpful," "people won't challenge me," "I don't need to be complimented," "I want criticism of my case so I can win," "the only non-believer," "we have this group of litigators, we know how to handle it." Everything else is paraphrase. Before this goes out, confirm each quoted phrase against your notes, and consider whether Phillips should see the sentences. The footnote is a placeholder ("Interview with Carter G. Phillips, Partner, Sidley Austin LLP ([date]) (notes on file with author)"); fill in the date.
+
+### Verification status of the other new quotations
+
+For every quotation other than McGuire's, I relied on the word-for-word checks recorded in your 00e MUST-ADD list (the [V] tags), because the sources themselves are not in this session. Check each against the source as you would any quotation. Three footnotes carry bracketed author notes: Mill (add the print page for ch. II), the Sanhedrin footnote (confirm the Rambam pincites against the Touger edition), and the Phillips date.
+
+### Mechanics of the new footnotes
+
+New footnotes are numbered 702–740 internally; Word displays them by position, so they will read as ordinary sequential footnotes once accepted. Short forms (*supra*, *Id.*) were placed so that each full citation precedes its short forms in document order (McGuire's full cite is in P0306, before the *supra* forms in P0306 and P0384; Tushnet's, Fuller's, Lazarus's, and the Selden Society volume's likewise). Lazarus is also cited in your existing footnotes, so you may prefer a *supra* note number there. The new P0147 paragraph has no paragraph style; apply Normal or your body style after accepting.
 
 ## Rule 11
 
@@ -71,6 +110,6 @@ Where a sentence of yours was untouched, I left its wording alone even where a S
 
 - Every snippet edit was matched exactly against the document before application.
 - The tracked file passes the docx schema validator, and an author check confirms every text change sits inside a tracked insertion or deletion.
-- Accepting all changes reproduces the proposed text exactly; rejecting all reproduces FAF 9:24 exactly (checked paragraph by paragraph).
+- Accepting all changes reproduces the proposed text exactly; rejecting all reproduces FAF 9:24 exactly (checked paragraph by paragraph, for all 66 edited paragraphs, with new footnote markers mapped to their assigned numbers). Every new footnote reference sits inside a tracked insertion, and every new footnote's text is tracked as inserted.
 - Seven independent review passes were run over the full set and their confirmed findings folded in: Scalia-style fidelity, quotation integrity, factual restraint against the note's own text, thesis order and cross-reference consistency, a sweep of the whole note for forum-first passages I had missed, overstatement and Rule 11 handling, and mechanics (dropped sentences, footnote fit, punctuation). Alternative drafts of the abstract, both introduction paragraphs, and the conclusion were written and judged; the strongest sentences were grafted in.
 - I could not render the file to PDF in this environment (LibreOffice cannot open any file here), so page layout was not visually checked.
