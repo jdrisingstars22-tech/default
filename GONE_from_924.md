@@ -1,6 +1,6 @@
 # What is gone from FAF 9:24 in the restructured file (accept-all view)
 
-Method: every sentence of every deleted paragraph was matched against the whole new text (a sentence counts as gone if nothing in the new file is at least 72% similar), and every footnote attached to a deleted paragraph was matched against every new footnote (gone if nothing is at least 60% similar). The old roadmap is not listed: it is replaced by v18's roadmap. Footnote numbers are 9:24 footnote ids.
+Method: every sentence of every deleted paragraph was matched against the whole new text (gone if nothing in the new file is at least 72% similar), and every footnote attached to a deleted paragraph was matched against every new footnote (gone if nothing is at least 60% similar). The old roadmap is not listed: it is replaced by v18's roadmap, and its disclaimer and Sotomayor footnote are kept. Footnote numbers are 9:24 footnote ids.
 
 
 ## 9:24 P0094
@@ -12,6 +12,7 @@ Method: every sentence of every deleted paragraph was matched against the whole 
 ## 9:24 P0095
 
 - Step outside the cave, and the world that comes into view is arranged nothing like ours.
+- When that scrutiny revealed a grievance’s deficiencies, the would-be litigant’s first option was not to relinquish their claim but to seek relief through the “Alternative” system instead—whether that was the elders’ councils of the Ancient Near East, the compromissum of Imperial Rome, or the church meetings of colonial Puritan communities.[^12] Their second option, taken when their grievance could only be remedied by the full relief offered via the formal system (i.e., constitutional rights violations), was to address the weaknesses in their claim through pre-filing scrutiny, and to persist in court once they were confident they could prevail for their clients.  [fn 12]
 
 ## 9:24 P0117
 
@@ -70,11 +71,10 @@ Method: every sentence of every deleted paragraph was matched against the whole 
 
 - The NAACP’s campaign against school segregation was successful, but the story illustrates that dedicating time, energy, and resources to scrutinizing one’s claim before filing is a prerequisite for strong litigation, because it counteracts the cognitive biases that any cohesive team, however talented, will develop when united by a shared objective of rushing an untested dispute out the door.[^164] Commentators who, like me, wish the ACLU had presented stronger arguments for their clients observe that “the ACLU could have benefitted from conservative team members—not to tell them that they were wrong on the law, but to tell them why this case was nothing like Bostock and why [the] conservative justice[s] could vote one way in Bostock and be nowhere in the realm of gettable for this case.”[^165] A deliberative body set on the fuller relief of formal adjudication need not forsake that path, but it owes its clients the rigor of first confirming that its theory can withstand adversarial scrutiny.[^166] In the next section, I will explain that when Deliberative Bodies are homogeneous and share a goal of externalizing a dispute without first testing it, and without any independent informal forum to absorb the claims that testing would have filtered out, their unchecked cohesion causes groupthink—the organizational pathology in which cohesion around an untested litigation strategy forecloses the internal dissent that would have exposed its deficiencies before the adversarial arena did.[^167]  [fn 164, 165, 166, 167]
 
-## Footnotes from 9:24 with no counterpart in the new file (6)
+## Footnotes from 9:24 with no counterpart in the new file (5)
 
 - fn 7 (P0094): frank e.a. sander, varieties of dispute processing, in discussions of dispute resolution 324 (2021); see also nader, harmony ideology, infra note 538, at 306.
 - fn 60 (P0121): david hoffman, a course of legal study 754 (2d ed. 1836).
-- fn 98 (P0142): i share justice sotomayor's concern that the law prohibiting gender affirming care authorizes harm to the plaintiffs ryan roe, l.w., john doe, their families who love the
 - fn 100 (P0142): carrie menkel-meadow, pursuing settlement in an adversary culture: a tale of innovation co-opted or the law of adr, 19 fla. st. u. l. rev. 1, 35 (1991).
 - fn 120 (P0152): isgur & french, supra note 106; steve marshall, attorney general marshall: supreme court agrees on tennessee's case, states can impose age limits on sex-change procedures
 - fn 138 (P0157): isgur & french, supra note 106; sarah isgur and david french, scotus 2025 term debrief, ("[w]as this an appeal that [plaintiffs] needed to make after that sixth circuit l

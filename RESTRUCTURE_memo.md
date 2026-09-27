@@ -26,6 +26,32 @@ Every v18 body paragraph is inserted verbatim, including the roadmap's two Secti
 
 **Old Section II is deleted in full**, since Section I now tells the Skrmetti and NAACP story. A few things in the old Section II are not in v18 and go with it unless you want them back: the Greenberg quotation's "until Warren Burger became chief justice" clause; "The Justices pressed counsel on whether Bostock's Title VII reasoning could be carried into the equal-protection context at all" (n.140); Carter's "Since they had nothing better to offer, I won the initial skirmish" (n.162); the "In the next section, I will explain …" transition (n.167); and the full Krech block quote (v18 quotes two fragments of it inline).
 
+## The selected quotations, now in this file
+
+Every quotation we chose is in this version, at the place that fits the new structure. Wording of the connective sentences is the audited Scalia-style version. Verification status: the McGuire and Phillips items were checked by me against the McGuire text and your bullets; every other quotation relies on the word-for-word checks recorded in your 00e list, so check each against its source.
+
+| Quotation | Where |
+|---|---|
+| Kronman (*The Lost Lawyer* 149), Lazarus 1540–41 ("completely rethink a case"), Kahneman & Lovallo ("a shared deficiency of reasoning will also yield consensus") | Section I, close of the Skrmetti subsection, before "No other forum could have given…" |
+| Tushnet 68–69, 53 (national office review; "the naacp lost every graduate school lawsuit"), Tushnet 105 ("you don't run into court with a legal case overnight") | Section I, Howard moot-court paragraph |
+| Margold Report 2 ("thrashed out in conference"), Carter, 86 Mich. L. Rev. 1089 ("make their case and counter the opposing sentiment") | Section I, before the Carter block quote |
+| Strebeigh, *Equal* 62 (the ACLU's "ironclad rule") | Section I, end of the NAACP subsection |
+| Cardozo 174–75 ("the spirit of the age…") | Section II, groupthink definition paragraph |
+| Mercier & Sperber 66 ("look for arguments … before we find ourselves called upon to state them") | Section IV, opening model paragraph |
+| Cicero, *De Oratore* II.102–03 (arguing the opponent's case; "three characters") | Section IV, Roman subsection |
+| Mishnah/Maimonides/Talmud, Sanhedrin (junior judge first; unanimous conviction acquits; silent student) | Section IV, end of the Chinese subsection |
+| Selden Society, *Readings and Moots* (Middle Temple description, 1540 report), Baker's introduction | Section IV, end of the Medieval English subsection |
+| Baker on the Inner Temple, 1778 ("commuted to a cash payment") | Section V, Third Historical Factor, hourly-billing paragraph |
+| Tetlock 291 ("more effective in preventing than in reversing"), Lazarus 1496 ("five out of every six"), Lazarus 1518 ("useful screening function"), McGuire 177 ("Fifty percent of the cert petitions"; "prescreened"; "professional fortunes… not tied to any one case") | Section V, Rule 11 paragraph |
+| Fuller & Randall 383, 384 (Joint Conference report), Dewey 23 ("No lawyer ever thought out the case of a client in terms of the syllogism") | Section VI, adversarial-bias paragraph (moved from the old intro) |
+| Douglas 111 ("busying himself with tactics and details") | Section V, Pound Conference paragraph (moved from the old intro) |
+| Mill, *On Liberty* ch. II; Fish 517 ("distance oneself from oneself") | Section VI, devil's-advocate paragraph |
+| Story § 398; Cornell 456–57 and Gienapp ("interpretive pluralism, not interpretive consensus") | Section VI, Constitutional Convention comparison |
+| McGuire 110 (Washington bar moots) | Section VII, mooting paragraph |
+| Phillips interview; McGuire 112 (Wasby's "temptation"), McGuire 158 ("the corporate nightmare came true") | Section VII, three paragraphs after the mooting paragraph |
+
+Bracketed author notes remain in three footnotes: the Mill print page, the Rambam pincites, and the Phillips interview date. McGuire's full citation now sits in Section V, and later McGuire footnotes are short forms; Lazarus's full citation is in Section I. v18's own Tushnet footnote (on the "playbook" sentence) is a second full citation of the 1987 book and could become a short form.
+
 ## The Phillips interview (Section VII)
 
 Three paragraphs follow the mooting paragraph, written from your bullet points. Only the phrases you put in quotation marks are quoted: "incredibly helpful," "people won't challenge me," "I don't need to be complimented," "I want criticism of my case so I can win," "the only non-believer," "we have this group of litigators, we know how to handle it," "feeding frenzy." Everything else is paraphrase of your bullets (the "wrong vehicle" point, the reluctance to go outside the firm, the incentive to argue the case yourself). The footnote is "Interview with Carter G. Phillips, Partner, Sidley Austin LLP ([date]) (notes on file with author)"; fill in the date.
@@ -77,7 +103,7 @@ Reworded by v18 rather than gone: the Skrmetti opening ("did not solely involve"
 | "Put simply, history impacts the present … psychological safety …" | Moved | Section VI, after the paragraph proposing the modern QCM. "As the final section of this Note develops" → "As this section develops." |
 | Old roadmap | Deleted | Replaced by v18's roadmap. Its disclaimer paragraph and the Sotomayor footnote are kept, in the Skrmetti subsection of Section I. |
 
-Counts: 79 paragraphs deleted (including blank spacers), 67 inserted, 4 edited inline.
+Counts: 79 paragraphs deleted (including blank spacers), 67 inserted, 12 edited inline.
 
 ## Cross-references
 
@@ -99,5 +125,5 @@ A moved paragraph's footnotes are duplicated as tracked insertions (168 new foot
 - The abstract, which still describes the note in ADR terms.
 - The TOC (update the field in Word).
 - Redundancy I kept because each side has quotations the other lacks: the Section IV opening model paragraph overlaps with the paragraph beginning "Once these agricultural settlements expanded" and with Section VI's first paragraph on the three options; the Athens and Rome material in *Features of QCMs* overlaps with the Greek and Roman subsections that follow.
-- The other pass-2 source integrations (Tetlock, Lazarus, McGuire pp. 110 and 177, Cicero, Sanhedrin, Inns of Court, Mill, Story, Fuller) are not in this file; they are in `FAF_924_thematic_shift_TRACKED.docx`.
+- The pass-1 Scalia-style rewrites of the abstract, roadmap, and section openings are not in this file (the writing sample replaces the intro they rewrote); they remain in `FAF_924_thematic_shift_TRACKED.docx`.
 - LibreOffice cannot open files here, so page layout was not visually checked; the file passes the schema validator and every change round-trips.
