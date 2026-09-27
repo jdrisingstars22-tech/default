@@ -12,7 +12,7 @@
 | I. Introduction | Writing sample v18, whole and in order: opener, *The Litigation and Its Predictable Defeat*, *Contrasting Case Study: NAACP Legal Defense Fund*, *Roadmap* | old I and old II |
 | II. Groupthink in the Legal Profession | unchanged | old III |
 | III. The Constitutional Convention | unchanged | old IV |
-| IV. Dispute Resolution as Prevention | old V, now opening with the material moved out of the old Introduction (see below) | old V |
+| IV. Dispute Resolution as Prevention | old V, opening with a one-paragraph statement of method; the old intro's QCM propositions are woven into its subsections | old V |
 | V. These Historical Practices were not Early Iterations of Modern ADR | old VI, with relocated material in its three factors and its Pound subsection | old VI |
 | VI. The Case for Institutional Dissent | old VII up through the billing subsection | old VII |
 | VII. From Theory to Practice (new heading) | the mooting paragraph (Huston interview, Lazarus, Georgetown moots, fee petitions) and *One Final Case Study* (Olson and Boies) | end of old VII |
@@ -74,6 +74,7 @@ Substance with no counterpart anywhere:
 - The old Section II closer defining groupthink as "the organizational pathology in which cohesion around an untested litigation strategy forecloses the internal dissent…," with n.167.
 - The Menkel-Meadow "lawyers persist[ing] in appearing at various ADR sessions wearing their adversarial suits" quotation (old roadmap, n.100). The phrase appears nowhere else in the note.
 - Footnote 7 (Sander, *Varieties of Dispute Processing*, with the Nader cross-reference) and footnote 60 (Hoffman, *A Course of Legal Study*, 2d ed. 1836). The quotations they supported survive elsewhere with other footnotes (n.551 for Sander; n.441 for Hoffman).
+- Footnotes dropped with sentences deleted as redundant: 11 (Roberts, *Definitional Avoidance*), 52 (Menkel-Meadow, Lande, Felstiner et al., Moore), 55 (the timeline-appendix note on the second collapse figure), 72 (Conklin), 73 (Southland, O'Connor dissenting; Moses), 74 (Gross), 83 (Shepherd & Cloud), 93 (a cross-reference). If any of these sources matters to you, the place to restore it is named in the table above.
 - Footnotes 120 and 138 in their 9:24 form (the Steve Marshall press-release citation and the *SCOTUS 2025 Term Debrief* citation); v18's footnotes 21 and 39 cover the same sources in different form.
 
 Deleted because the same substance is elsewhere:
@@ -83,27 +84,40 @@ Deleted because the same substance is elsewhere:
 
 Reworded by v18 rather than gone: the Skrmetti opening ("did not solely involve" → "was not simply a matter of"; "rapid" → "unrehearsed"; the jeans-advertisement sentence → "the corporate sphere's culture of bullying opponents into capitulation"); "The composition and process behind SOC-8" → "Neither the selection of SOC-8's authors nor the process"; "I concede that ideological diversity … might not have altered the outcome" → "Of course, no one can know whether…"; the Tilly sentence; the Howard paragraph; the Kelly and Krech lead-ins; "Step outside the cave" → "The world that comes into view in the historical record."
 
-## Where the old Introduction went
+## The bridge paragraph (Section I, head of the Roadmap)
 
-| Old Introduction paragraph | Fate | New location |
-|---|---|---|
-| "Contemporary ADR has lost the plot …" (definitions, Sander, Plato's cave) | Split | The Deliberative Body and Externalization definitions (with their footnotes) → a two-sentence vocabulary paragraph at the head of Section IV, since the terms first recur there and in Section II. The ADR critique → Section V, *The 1976 Pound Conference*, after the Sander Dispute Resolution Center paragraph; the sentence quoting Sander's "screening clerk" remark was dropped there because that subsection already quotes it (old n.551). |
-| "Step outside the cave …" (QCM model, three options, groupthink, "experiment failed") + thesis figure | Moved | Opening of Section IV, before *Ancient and Classical Systems*. First sentence now "The world that comes into view in the historical record is arranged nothing like ours." |
-| "Why do I turn to history …" | Moved | First paragraph of Section IV. |
-| *Features of QCMs* subsection (three points, two figures, survival in modern codes) | Moved whole | Section IV, after the opening paragraphs, as its first lettered subsection. The Greek subsection's "the one I told in the introduction, where Phrynion" now reads "the one I told above." |
-| Shamash-iddin hypothetical (two paragraphs) | Moved | Section IV, Ancient Near East, right after the oath timeline figure. "how my theory of ADR operates" → "how the oath operated in practice." |
-| "Lawyers File Disputes Without Testing Them …" heading and lead paragraph | Deleted | Section V's second and third paragraphs already say it. |
-| First Development: Hoffman and Sharswood quotations | Deleted | Both are quoted in full in Section V, *First Historical Factor*. |
-| First Development: Canons/Model Rules lineage, "polarizes the participants," "private conscience, not public honor" | Moved | End of *First Historical Factor*, Section V. |
-| First Development: Simon & Ahn, Spamann, "zeal might cloud," bias survives awareness | Moved | Section VI, after the paragraph on Sharswood and the adversary system's "biasing pressures." |
-| Second Development: FAA and Chamber of Commerce, multi-door courthouse, "litigotiation," Gabrieli & Alberstein | Moved | End of *Second Historical Factor*, Section V, before "Something else changed disputes … it was money." "Second, attitudes" → "Attitudes." |
-| Second Development: pleading standards, associates, specialization, employee voice, peer review, leadership feedback | Moved | Section II, *Outside of Law School and Legal Contexts*, after the paragraph on conformity within firms. |
-| Third Development: fixed fees to hourly billing, overconfidence block quote, Weinstein, confirmation bias, "blind spots," senior partners | Moved | Section VI, after the paragraph on monetization and myside bias. "Third, fixed" → "Fixed." |
-| "Combined, these three historical circumstances … Rambo and kamikaze lawyers" | Moved | End of Section V's three factors, after the Rule 11 paragraph. |
-| "Put simply, history impacts the present … psychological safety …" | Moved | Section VI, after the paragraph proposing the modern QCM. "As the final section of this Note develops" → "As this section develops." |
-| Old roadmap | Deleted | Replaced by v18's roadmap. Its disclaimer paragraph and the Sotomayor footnote are kept, in the Skrmetti subsection of Section I. |
+Before "This Note argues that throughout history…," one new paragraph in Scalia's register states the argument whole: the entry fee paid "not in money but in risk"; the fee payable only by testing the claim; the three outcomes (to court; to the elders' council, the compromissum, or the church meeting; or repaired first and filed afterward); docket relief as "not the point"; the test as what "modern psychology prescribes against groupthink"; the Deliberative Body and Externalization definitions in a parenthetical, with their original footnotes; and the American inversion, which "failed in both of its purposes," the second failure being "the loss this Note is about." Your thesis figure follows it. Nothing else from the old Introduction is in Section I.
 
-Counts: 79 paragraphs deleted (including blank spacers), 67 inserted, 12 edited inline.
+## Where each proposition of the old Introduction went
+
+Propositions were placed one at a time. Where a proposition was already made elsewhere in the note, it was deleted rather than moved. The full list of deleted sentences is in `GONE_from_924.md`; the substantive ones are summarized under **What is gone** below.
+
+| Old proposition | Placed at |
+|---|---|
+| Definitions of Deliberative Body and Externalization (nn.2, 3) | Section I bridge paragraph |
+| Alternative forums: elders' council, compromissum, church meeting (n.12) | Section I bridge paragraph |
+| Three outcomes of testing; docket relief secondary; the test as the safeguard against groupthink; the American model's double failure | Section I bridge paragraph (restated, not copied) |
+| Thesis figure | Section I, after the bridge paragraph |
+| "Why do I turn to history" (Schlag n.56, Rahimi/Cornell n.57, Zane's "stream" n.58) | Section IV opening, condensed to one paragraph and joined with Mercier & Sperber |
+| First point on QCMs: "oath" reaches past divine affirmation; "costly risk" (nn.22, 23) | Section IV, the paragraph that defines QCMs ("not out of sheer kindness but out of compulsion") |
+| Athens: character as the "oath"; Lanni on lifetime conduct, witnesses at risk, "extremely humbling" (nn.24–26) | Section IV, Greek subsection, after "what a man was willing to swear to" |
+| Phrynion "deterred by the formal tier's binary structure … 'make someone hesitate'" (n.27) | Section IV, Greek subsection, joined to the existing Phrynion sentence, which no longer refers to "the introduction" |
+| Figure of differing QCMs and its caption ("no screening clerk could replicate," n.28) | Section IV, after the Medieval English timeline, before the subsection on disadvantaged groups |
+| Second point: litigants "pro se"; the ABA's "oath" (nn.29, 30); Rome's calumny oath, gatekeeper duty, cost-shifting (Brundage, nn.31–33) | Section IV, Roman subsection, after the Justinian block quote and before "Rome thus achieved…" |
+| The nineteenth-century bar "shorten[ed] and dilute[d]" the oath; "I must interject" (nn.34, 35) | Section V, after the paragraph on the erosion of oath-taking (Campbell) |
+| Third point: survival of QCMs abroad (Egypt, Iraq, Greece, Rome, China, England; nn.36–51) | Section V, after "The displacement of divine oath-taking … was not peculiar to American soil" |
+| "Once Deliberative Bodies drop the question…" and "This is not to say that every claim belongs in an informal forum" (nn.53, 54) | Section V, Pound subsection, after the collapse figure |
+| ADR "has lost the plot"; "alternatives"; Pound "ratified the divorce"; "point of origin"; Plato's cave; Douglas (nn.4–6, 8–10) | Section V, Pound subsection, after the multi-door experiments |
+| Multi-door experiments failed; "litigotiation"; Gabrieli & Alberstein (nn.75, 76) | Section V, Pound subsection |
+| Canons/Model Rules lineage; "polarizes the participants"; "private conscience" (nn.62–65) | Section V, end of First Historical Factor |
+| Simon & Ahn, Spamann, "zeal might cloud," with Fuller & Randall and Dewey | Section VI, after the adversary-system "biasing pressures" paragraph |
+| Pleading standards, associates, specialization, employee voice, peer review, leadership feedback (nn.77–82) | Section II, between the paragraphs on firm conformity and institutional faults |
+| Fixed fees vs hourly billing's moral hazard; overconfidence quote; Weinstein; confirmation bias; "blind spots" (nn.84–91) | Section VI, after the monetization paragraph |
+| "Combined, these three historical circumstances… Rambo and kamikaze lawyers" (n.92) | Section V, after the Rule 11 paragraph |
+| Psychological safety defined; "the exception in organizations, not the norm"; the three prongs (nn.94–97) | Section VI, after the paragraph proposing the modern QCM |
+| Hypothetical of Shamash-iddin (nn.13–21) | Section IV, after the Ancient Near Eastern oath figure |
+
+Deleted as redundant (each is said elsewhere, with the place): Sander's "screening clerk" remark (Pound subsection, n.551); the two-tracks geometry and its collapse (the Pound subsection's "In the prior section, timelines illustrated…" and figure); Hoffman and Sharswood quotations (First Historical Factor); the three-developments lead paragraph (Section V's second and third paragraphs); the FAA/Chamber of Commerce sentences and the multi-door proposal sentence (Second Historical Factor and the Pound subsection); "fixed attorney rates dominated… switched to hourly billing" (Third Historical Factor); "Put simply, history impacts the present…" and "the modern QCM… authentic dissent" (Section VI's own statement of the proposal); "QCMs have served… an indispensable purpose" (the QCM definition paragraph).
 
 ## Cross-references
 
