@@ -119,3 +119,97 @@ Where: the abstract's "mistake their own consensus for the strength of their cas
 ## One structural caution
 
 Your research chat frames a fourth idea, that advocates fail "because they only speak one interpretive language." The tracked draft does not make that a fourth historical development, and I would not. It is the account of *what testing consists of* (Kronman, Posner, Lazarus), and it belongs where the note explains how a team tests a claim: the Skrmetti close and VII.A. Making it a cause alongside Sharswood, capacity, and billing would reopen the structure you just settled.
+
+---
+
+## Exhaustiveness check (added on request)
+
+**What "exhaustive" can mean here.** I checked every source in the three files you uploaded: the NotebookLM export as I have it (278 blocks, 351 quotation units, about 55 distinct sources), 00e §1–4 and its Appendix A (which itself accounts for the earlier export's 345 blocks), and the Sept. 22–26 research chat. I cannot speak to your folder, or to any NotebookLM export I have not seen. Within those files, the accounting below is complete: every source is named and given a disposition.
+
+**Five items I under-ranked in the first memo and now move up:**
+
+1. **Sanhedrin rules** (Mishnah Sanhedrin 4:1–2, 5:4–5; Rambam, Sanhedrin 9:1, 10:1, 11:6, 22:2–3; B. Sanhedrin 17a) [V per 00e]. Not in the NotebookLM export; in 00e as item 27. A court that acquits when the vote to convict is unanimous, that takes the junior judge's opinion first "lest the remainder rely on his opinion," and that treats the silent student as transgressing is your Part VII, encoded as law two millennia early. Tier 1, a short paragraph in V beside China, and VII.B. Verify the Touger pincites (00e moved "begin from the side" to 11:6).
+2. **Dewey, *Logical Method and Law*, 10 Cornell L.Q. at 23–24** [V per 00e]: "No lawyer ever thought out the case of a client in terms of the syllogism … too precommitted to the establishment of a particular and partisan conclusion"; "The logic of exposition is different from that of search and inquiry." Tier 2, I.B.1 beside Spamann (P0123). The pragmatist's diagnosis, a century before the psychology.
+3. **Lazarus, 96 Geo. L.J. at 1540–41** [V per 00e]: the best advocates "completely rethink a case"; cases "lend themselves to being pitched in multiple ways"; the "soft landing." Tier 2, the Skrmetti close (P0161), with Kronman 149.
+4. **Story, 1 *Commentaries* § 398; Gienapp 115, 123; Cornell 456–57, 459** [V per 00e]: "the rules of interpretation have often been shifted to suit the emergency"; "interpretive pluralism, not interpretive consensus." Tier 2, IV.C and VII.A (P0338), as better support for the Convention's cognitive diversity than the management literature at fn 587.
+5. **Margold Report 2, 93 [V-img per 00e] and Carter, 86 Mich. L. Rev. at 1084, 1089, 1094** [V per 00e]: "differences of opinion which should be thrashed out in conference"; the Howard conference convened so the direct attack could "make their case and counter the opposing sentiment"; meeting the parents "before the complaint was filed." Tier 2, II.B (P0165–P0170), with Tushnet 1987.
+
+**Every other source in the export or in 00e, with its disposition.** "Covered" means it is in Tier 1 or Tier 2 above.
+
+| Source | Disposition |
+|---|---|
+| Babcock, Loewenstein & Issacharoff 1997 | Covered (Tier 2). |
+| Babcock, Loewenstein, Issacharoff & Camerer 1995 | Footnote only, VI.E: more shared information can make expectations diverge (1338, 1342–43). Redundant with the 1997 paper in the body. |
+| Baker, 105 Selden Soc. | Covered (Tier 1, items 6–7). |
+| Baum, *Judges and Their Audiences* | Footnote, VII.A (98, 106): lawyers as the audience opinions are written for. Supports Kronman; does not need body text. |
+| Becker, *Forcing the Spring* | Counter-material for VII.E (38–39, 30) and a VII.D footnote on the Perry moots (280–81, 288–89). Epub pages unverified; cite for reported facts, attributed. |
+| Bobbitt, *Constitutional Fate* | Covered (Tier 2 footnotes: 124, 131–32, 128). |
+| Bonner, *Roman Declamation* 51, 73, 83 | Footnote, V (Rome) beside Cicero: declaimers argued both sides; the declaimer "misses the objections of his adversary." Good, but Cicero carries the point in the body. |
+| Bourdieu, *The Force of Law* 831–34 | Section VI as history (professionals "create the need for their own services"), footnote at P0296. Forum material, correctly demoted. |
+| Campbell, *Raising the Bar* | Covered (Tier 1 item 12; Tier 2). |
+| Cardozo | Covered (Tier 1 item 10). 177 ("out of the attrition of diverse minds") is a VII.A footnote. |
+| Carter, 86 Mich. L. Rev. | Now covered (upgrade 5). |
+| Cicero, *De Oratore* II.102–03 | Covered (Tier 1 item 4). II.291–95 is a footnote. |
+| Cicero, *De Officiis* II.7–8 | Footnote with De Oratore: the Academic argues both sides because "a comparative estimate were made of all the arguments on both sides." II.51 only in Miller's wording. |
+| Cornell 2024 | Now covered (upgrade 4). His objection to the "language" metaphor (452 n.79) is counter-material to footnote. |
+| Cummings 2017 / Williams | Footnote only, and only after verifying Williams, *Alchemy* 149 directly. |
+| Dewey | Now covered (upgrade 2). |
+| Douglas | Covered (Tier 1 item 9). 12–13 replaces fn 37. |
+| Fallon 1987 | Footnote, VII.A (1193 "the anomalous brief"; 1249) and I (1250, "we need a lawyer, not a linguist," the answer to Cornell). |
+| Feyerabend | Covered (Tier 2 footnotes 22, 64). 31–32 is an epigraph candidate at most. |
+| Fish | Covered (Tier 2, 517; counter 245). |
+| Fleck / Kuhn's foreword | Footnote with Douglas 12–13 at fn 37 (Fleck 27, the five ways a closed system resists contradiction). Do not use Fleck 3 as NotebookLM spliced it. |
+| Fortescue ch. XLVIII; Gregor's Coventry note; Selden's note | Footnote, V.C: "three several Languages"; Coventry on doubts cleared by debate before issue joined. Check "Care"/"Case" on the page image first. |
+| Frank, *Courts on Trial* | 92 covered (Tier 2). 400 is a footnote at fn 79. 414 is a foil to Babcock. 85 is a footnote in VI.B. |
+| Franklin 2010 | Skip in the body; Ginsburg's case selection is carried by Campbell and Strebeigh. 91–92 or 125 at most a footnote. |
+| Fuller | Covered (Tier 1 item 1). 382 (the arbiter who must play both litigants) and 388 are footnotes. |
+| Gadamer | Covered (Tier 2, 298; 360–61). |
+| Gienapp | Now covered (upgrade 4). |
+| Ginsburg 1985, 1992 | Covered (Tier 2, fn 110). |
+| Grove | Do not use. |
+| Helmholz | Covered (Tier 2). |
+| Hirshman | Skip. |
+| Hollis-Brusky 12–13 / Balkin | Footnote, VII.A: the ladder from "positively loony" to "good legal craft." Verify Balkin 1444–45 directly. Not in the export. |
+| Holmes, *Path of the Law* | Footnote, I.B.1 (465–66, "certainty generally is illusion"; 461, prophecies). Ten blocks in the export, none needed in the body. |
+| Kahneman & Lovallo | Covered (Tier 1 item 14). 25–26, 28, 30 footnotes in VII.B–C. |
+| Kaplan, *Then Comes Marriage* | Footnote, VII.D (226: academics "have their own theories"; 227–30 the first Windsor moot). Epub pages unverified. |
+| Katz, Bommarito & Blackman 2017 | Footnote, VII.A: the model's 70 percent and the ensemble analogy. Ruger carries the point. |
+| Kennedy, *Legal Consciousness* | Footnote, I: shared premises dismissed "as not a legal argument." |
+| Klarman | Covered (Tier 2, 216–17; counter 138–39). 74–76 and 215 footnotes on prematurity. |
+| Koriat, Lichtenstein & Fischhoff | Covered (Tier 2). |
+| Kronman | Covered (Tier 1 item 5). 136–39 with 149; 98, 113–14, 129–30 footnotes. |
+| Kuhn | Covered (Tier 2, 165–66). 202–03 and 164 footnotes in VII.A–B. |
+| Lazarus | Covered (Tier 1 item 13; upgrade 3). 1549 counter-material. |
+| Leiter | Skip. A formal home for "interpretive language" (9, 20) if you define the term; otherwise no work. |
+| Lerner & Tetlock; Tetlock, Skitka & Boettger | Covered (Tier 1 item 2). 633 ("courage of their convictions") footnote. |
+| Loewenstein et al. 1993 | Footnote, VI.F: ADR "should be directed at 'debiasing' parties rather than simply facilitating the exchange of information" (158–59). Fix fn 659's pin to 153. |
+| Lord, Lepper & Preston | Covered (Tier 2). |
+| Margold Report | Now covered (upgrade 5). |
+| Mayeri | Covered (Tier 1 item 12). |
+| McGuire, *The Supreme Court Bar*; 57 J. Pol. | Covered (Tier 1 item 13). Not in the export; in 00e. |
+| Mercier & Sperber 2011; *Enigma* | Covered (Tier 1 item 3). *Enigma* 235, 247 footnotes; epub pages unverified. |
+| Mertz | Covered (Tier 2). |
+| Mill | Covered (Tier 1 item 8). |
+| NeJaime | Counter-material (covered). |
+| Peirce | Skip, or an epigraph (§V). |
+| Posner, *Reflections* | Covered (Tier 1 item 5; Tier 2). |
+| Post & Siegel 2006; Kalman | Footnote, VII.A: originalism as "a compelling language"; the left learning it. |
+| Quintilian | Butler's wording only, footnote in V or VII.D. |
+| Reuters, *The Echo Chamber* (2014) | Footnote with Lazarus and McGuire (Caminker "speak their language"; Nelson's "nicer way of no"; Scalia on poorly presented petitions). Web copy only. |
+| Rorty, *CIS*, *PMN* | Footnotes (Tier 2). Do not use 92–93 as spliced. |
+| Rosenberg, *Hollow Hope* | Counter-material only (92–93 "no master plan"; 404). Epub pages unverified. |
+| Ruger et al. | Covered (Tier 2). |
+| Sanhedrin | Now covered (upgrade 1). |
+| Selden Society 71 (Thorne): Denton report xxx n.1; Coke xvii n.2; lxvii–lxviii | Covered (Tier 1 item 6). Coke's "riddles" lament is a VI footnote. |
+| Story | Now covered (upgrade 4). |
+| Strebeigh | Covered (Tier 1 item 12). 40, 65–66 footnotes. |
+| Tetlock 1983 | Covered (Tier 1 item 2). |
+| Tetlock, *Expert Political Judgment* | Footnote, VII.A (foxes and hedgehogs). Epub pages unverified. |
+| Tushnet 1987 | Covered (Tier 1 item 11). Not in the export; in 00e. |
+| Wiecek | Footnote at fn 79 (5) and fn 420 (99). Already verified in your other manuscript. |
+| Winston, *Lawyers at Play* | Skip; Baker carries the Inns. |
+| Wittgenstein | Epigraph at most (§593, "a one-sided diet"). |
+
+**Sources 00e still lists as not yet pulled** (so nothing can be quoted from them): Cowan (1976), Williams *Alchemy* 149, Leachman (2021), Goldberg (2014), Wasby (1985), Bell (1976), McAtee & McGuire (2007), McNeil 135.
+
+**Bottom line.** With the five upgrades above, the list covers every source in the three files. Nothing else in them earns body text under the rework; the remainder is footnote support, counter-material, or not usable as transcribed. What I cannot confirm is anything outside those files, and I have not verified any quotation against its source.
