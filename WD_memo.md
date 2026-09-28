@@ -1,0 +1,60 @@
+# Edits on WORKING_DRAFT (tracked changes)
+
+**File:** `WORKING_DRAFT_TRACKED.docx` — your WORKING_DRAFT with every change tracked under the author "Claude." Rejecting all changes restores your file exactly (machine-checked paragraph by paragraph). `redline_wd.md` shows the same changes as text. No new sources were used; every quotation in the inserted text was checked against your own text and footnotes (41 quoted spans, all found). Nothing in the rejected attempt was reused.
+
+## 1. Section V: bringing the claim-testing thesis back into view
+
+No new propositions. Existing sentences were rephrased so that each turn of the American story names what it did to the *test*, in Scalia's register:
+
+- **"Then came the lawyers."** The paragraph that opened "And then lawyers were introduced into the mix" now reads: "Then came the lawyers. While other societies searched for secular substitutes for the oath, Americans entrenched adversarialism as a national disposition. Whether that was inevitable is the question of the Interlude that follows this Section; for now it is enough to say…" ("While I devote a chapter to assessing whether this shift was inevitable" is gone.) Its garbled last sentence now reads "The profession's appetite for disputes proved contagious, and ordinary people soon wanted their share of them:".
+- **First Factor opener.** "This point in history brings me to the first thematic moment which defines American laws break from historical practice" → "This is the first of the three developments by which American law broke with the practice I have described."
+- **The oath diluted (end of "Attitudes … Continue to Waver").** The typo-ridden close is rewritten: "Kellor was right. The decline had begun with the nineteenth-century bar's choice to 'shorten and dilute' the lawyer's oath…. With the oath went the last consequence of bringing a weak claim to court, and with the consequence went the informal forum's advantage: a lawyer who pays nothing for filing an untested claim has no reason to test it, and no reason to look for another place to take it." (Your point, "they no longer had the advantage they had in previous societies," stated with its mechanism.)
+- **FAA paragraph.** "Like the Indigenous systems discussed previously, the FAA was enacted on the same logic…" → "The FAA thus rested on the same logic as the Indigenous systems described in Section IV…. Whatever one's theory of statutory interpretation, the statute meant to preserve that communal mode of settling disputes."
+- **End of the capture paragraph.** "Unfortunately for clients everywhere who deserve to have their disputes battle-tested before filing, disputants found…" → "The disputant, whose claim it had once been his to test, found instead that his ''property' interest in the dispute is expropriated by lawyers and the state.'"
+- Small fixes: "The biggest beneficiaries … was" → "beneficiary"; the Rule 11 paragraph's missing final period.
+
+The passages that already carried the thesis (the Hoffman/Sharswood paragraphs ending "the profession's last internal check on whether a dispute belonged in court," the Joint Conference paragraph, "Here is the critical difference," the billing paragraphs) were left as they are.
+
+## 2. The Interlude, rebuilt
+
+The heading is now a real section heading in small caps, "Interlude: Was This Path Inevitable?", **unnumbered** so that your roadmap's "Section VI / VII / VIII" and the cross-references in Section VI still hold (your heading carried the Roman-numeral list and would have printed as VI). An unnumbered line for it was added to the outline at the front, and one sentence to the roadmap: "A brief Interlude then asks whether this path was inevitable."
+
+The Interlude now runs in this order, almost entirely in your own paragraphs:
+
+1. **The question.** Sander's romantics and "an alternative to the courtroom"; too late to rebuild what was lost; "That is not pessimism but realism. It does raise a question, though, that is worth pausing over before I turn to the remedy: was this path inevitable? Strong arguments exist on both sides." ("This is a shame and I can not help but wonder…" is gone. Your "post-filing apparatus that was lost" now reads "the independent informal track that had been lost," since the apparatus the Note says was lost is the pre-filing test and the separate informal track; tell me if you meant something else.)
+2. **On the one hand (inevitable):** your book-account/commercial-instruments paragraph; your communitarianism/free-trade-zone paragraph; your "beyond this Note's scope… America was a rich country" paragraph; then secularization, in a short paragraph built from your Leeson quotation: "Secularization points the same way…. A society that no longer believes a god is listening cannot swear its litigants into candor, and if that were all there was to it, the American departure would be no departure, but simply modernity."
+3. **On the other hand (not inevitable):** your "most ordinary business and nonbusiness disputes probably avoided the courts" / Griffiths / Auerbach paragraph (its "To illustrate, consider how…" sentence smoothed); your semi-autonomous social fields / garment / diamond paragraph; then the survival of the oath elsewhere, led in with "Other societies, moreover, passed through the same secularization without giving up the test," followed by your Egypt/Iraq/Greece/Rome and China/England paragraphs ("discussed above" → "discussed in Section IV").
+4. **The relocated portion.** The Rome/Languedoc/colonial paragraph, the bar's turf-war paragraph, and the capture summary with the England counterexample are moved here from Section V, in your words, with new seams: "The lawyer as such is not to blame either. As the Roman material in Section IV showed…"; the Roman paragraph now ends "The difference was not the lawyer but what the lawyer had sworn. The Roman advocate entered the informal forum bound by an oath to abandon a hopeless case; the American lawyer entered it bound by nothing but Sharswood's 'immovable fidelity' to the case he had already taken."; "The unsworn American bar, by contrast, went to war for the forums."; "In sum, it was the profession's institutional capacity for capturing disputes, and not the lawyer's presence, that explains…"; and "Something else changed disputes, and, as the third development showed, it was money." In Section V, the Second Factor now ends with the "expropriated by lawyers and the state" sentence, and the Third Factor's own opener ("Armed with Sharswood's demand… the profession needed only a financial engine") supplies the bridge.
+5. **The answer.** One new closing paragraph: "None of this was fated. Other societies, as commercial and as secular as ours, kept the test; the American profession let it go, by the three choices Section V described. What a profession has chosen it can choose again. I do not propose to rebuild the forums; that cannot be done. But the test never lived in the forums. It lived in the disputant, who had to know the strength of his claim before he could know where to take it." It then carries your sentence "Once a Deliberative Body drops the question 'should this dispute be externalized at all?'…" (with its footnote) and ends "The next Section asks who should put that question again, and how."
+
+Dropped: "Fish do not talk about water" and its footnote (the *McRitchie v. Zuckerberg* cite), which you had highlighted; it did not carry the argument.
+
+## 3. The highlighted passages
+
+| Where | What I took the highlight to mean | Change |
+|---|---|---|
+| Skrmetti section, a highlighted period after "would have altered the outcome" | Stray highlight | Highlight removed; text untouched. |
+| "What is most frustrating for those hoping the Skrmetti plaintiffs had won…" (Strebeigh paragraph) | Off-register opener | "The ACLU itself once knew this, and kept a gate of its own." … "The same organization, fifty years apart, with the forge and without it." |
+| Roadmap, "In ancient Athens, for instanfe" | Typo | Fixed; also "One would be litigant Phrynion" → "One would-be litigant, Phrynion,". |
+| "Why do I turn to history" paragraph | Leftover highlighting from the last round on unchanged words | Highlight removed; text untouched. |
+| Section II, "hat Cardozo meant… is our judgment of problems falters we deliberate" | Garbled sentence | "What Cardozo meant, and what the psychologist Irving Janis would call 'groupthink' decades later, is that our judgment falters when we deliberate among people of like views and backgrounds." |
+| Section III, "The framers' deliberative process turned diverse and conflicting initial positions into a durable constitutional framework" | Flat, abstract | "The framers' deliberations turned a room of conflicting positions into a durable Constitution." The orphaned "Like a master swordsmith…" fragment is joined to its sentence. |
+| Section IV opener, "What follows is a brief This practice… he oath and the disputes…" | Broken sentences | "What follows is a brief survey of that practice, the testing of one's claim before using the formal system, which has parallels across human history…. The oath, and the disputes that centered on it, show how formal forums, QCMs, and informal forums operated in tandem." |
+| Athens, "But why? Whereas oaths thrived…" | Abrupt | "Why would he? In the Ancient Near East the oath drew its force from piety; in Greece it drew its force from the regard in which a man's character was held, and that regard made litigants test the strength of their claims before filing." |
+| Section V, the Rome/Languedoc paragraph | Belongs in the Interlude | Relocated (above). |
+| Interlude heading and paragraphs | Needs structure | Rebuilt (above). |
+| Section VI, the two transplanted psychological-safety sentences | Seams from the deleted Section V paragraph | "Confirming this error are studies that demonstrate…" → "Studies confirm the point: a high degree of psychological safety 'is the exception in organizations, not the norm.'" The other sentence fits as it stands. |
+| Word of Caution and billing paragraphs | Leftover highlighting from the last round | Highlight removed; text untouched. |
+
+All highlighting is removed as a tracked formatting change, so rejecting restores it.
+
+## 4. Other typos fixed in passing (Sections I, III, IV)
+
+"Alternativley, the Disputant could seek Resolution"; "before they brought it" → "before he brought it"; the ungrammatical "It ensured that the team of advocates… was the strongest" sentence; "have abrogated pre-filing scrutiny away, therby decreasing"; "susceptible to  this fallacious starting in law school"; "[^94]. Sanders 'famous remarks' was"; "the groups position before its brought," "They framers," "it is unsure"; "so called agricultural revolution… and reorienting"; "a farmer's neighbor could contest was"; "This excerpt illustrate"; "the self scrutinize culture"; the run-on "When Rome professionalized counsel, and the calumny oath came with the profession it required"; "The Calumny oath was also ongoing throughout the dispute.  Roman code stipulated"; "next sections discussion… capitalisms neverending"; "iLikewin"; "This notes thesis of 1) self scrutinization which, 2) reveals the claims strength…". The outline's Section III.B line now matches the body heading, and the stale "Three Takaways From QCMs" outline line (no such subsection remains) is deleted.
+
+## 5. Left for you
+
+- Moved paragraphs carry their footnotes as tracked copies, so displayed numbers shift on acceptance and "supra note" references need re-checking.
+- The roadmap's closing quotation ("is often considered to be the point of origin for contemporary dispute resolution") has no footnote.
+- The Interlude's "too late to turn back" sentence carries your Goodman-Delahunty footnote, which is about lawyers' prediction accuracy; check that it is the cite you want there.
+- The roadmap paragraph beginning "These three reasons culminated" still repeats the Pound paragraph's Sander sentences word for word.
